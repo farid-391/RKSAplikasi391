@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">RKSAplikasi391</string>
     <string name="q1">Mau makan apa hari ini?</string>
+    <string name="see_all">Lihat Semua</string>
+    <string name="merchant_name">Olive Fried Chicken, Jalan Pulang</string>
+    <string name="ayam_bebek"><![CDATA[Ayam & Bebek]]></string>
+    <string name="yourlocation">Lokasi Kamu</string>
+    <string name="hasil_pencarian">Hasil Pencarian</string>
+    <string name="zero">0</string>
+    <string name="ovc">Olive Fried Chicken</string>
 </resources>
