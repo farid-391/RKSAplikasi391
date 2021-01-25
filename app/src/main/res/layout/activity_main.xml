@@ -92,7 +92,8 @@
                 android:src="@drawable/picthov2"
                 android:layout_toRightOf="@id/over1"
                 android:layout_marginLeft="10dp"
-                android:layout_marginTop="18dp"/>
+                android:layout_marginTop="18dp"
+                android:onClick="openSearchActivity"/>
             <ImageView
                 android:id="@+id/over3"
                 android:layout_width="wrap_content"
@@ -100,7 +101,8 @@
                 android:src="@drawable/picthov1"
                 android:layout_toRightOf="@id/over2"
                 android:layout_marginLeft="10dp"
-                android:layout_marginTop="18dp"/>
+                android:layout_marginTop="18dp"
+                android:onClick="openSearchActivity"/>
         </LinearLayout>
     </HorizontalScrollView>
     <LinearLayout
@@ -175,21 +177,24 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/imgs1"
-                android:layout_marginRight="16dp"/>
+                android:layout_marginRight="16dp"
+                android:onClick="openSearchActivity"/>
             <ImageView
                 android:id="@+id/imgs2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/imgs2"
                 android:layout_marginRight="16dp"
-                android:layout_below="@id/inp_search" />
+                android:layout_below="@id/inp_search"
+                android:onClick="openSearchActivity"/>
             <ImageView
                 android:id="@+id/imgs3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/imgs3"
                 android:layout_marginRight="16dp"
-                android:layout_below="@id/inp_search" />
+                android:layout_below="@id/inp_search"
+                android:onClick="openSearchActivity"/>
         </LinearLayout>
     </HorizontalScrollView>
     <LinearLayout
@@ -235,7 +240,8 @@
                 android:layout_height="wrap_content"
                 android:src="@drawable/offer1"
                 android:layout_marginRight="16dp"
-                android:layout_marginBottom="-100dp"/>
+                android:layout_marginBottom="-100dp"
+                android:onClick="openSearchActivity"/>
             <ImageView
                 android:id="@+id/imgoffer2"
                 android:layout_width="wrap_content"
@@ -243,14 +249,16 @@
                 android:src="@drawable/offer2"
                 android:layout_marginRight="16dp"
                 android:layout_below="@id/inp_search"
-                android:layout_marginBottom="-100dp"/>
+                android:layout_marginBottom="-100dp"
+                android:onClick="openSearchActivity"/>
             <ImageView
                 android:id="@+id/imgoffer3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/offer3"
                 android:layout_marginRight="16dp"
-                android:layout_below="@id/inp_search"/>
+                android:layout_below="@id/inp_search"
+                android:onClick="openSearchActivity"/>
         </LinearLayout>
     </HorizontalScrollView>
 </RelativeLayout>

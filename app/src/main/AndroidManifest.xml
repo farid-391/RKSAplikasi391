@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.RKSAplikasi391">
-        <activity android:name=".CheckOutActivity"></activity>
+        <activity android:name=".ItemArrived"></activity>
+        <activity android:name=".DeliveryProgress" />
+        <activity android:name=".SearchDriverActivity" />
+        <activity android:name=".CheckOutActivity" />
         <activity android:name=".MerchantActivity" />
         <activity android:name=".SearchActivity" />
         <activity android:name=".MainActivity">
