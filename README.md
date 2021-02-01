@@ -20,5 +20,5 @@
 
 
 #### Preview Aplikasi
-![Gambar Preview](20210201_122301[1].gif)
+> ![Gambar Preview](20210201_122301[1].gif)
 
