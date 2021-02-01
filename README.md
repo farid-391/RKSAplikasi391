@@ -1,6 +1,5 @@
 # RKSAplikasi391
 
-<html>
 <b >Nama   : </b> Farid Afgar<br/>
 <b>NIM    : </b> 1800018391<br/>
 <b>Kelas  : </b> H<br/>
@@ -24,4 +23,3 @@ Akan tetapi item-item tersebut telah dirancang untuk scrollable serta dapat mena
 <li><p>Tautan Folder UTS : <a href="https://drive.google.com/drive/folders/1-zi1L2EY7ORJDgWx984ciaVXGFUOmi1c?usp=sharing">Klik Disini</a>
 <p>Atau klik link https://drive.google.com/drive/folders/1-zi1L2EY7ORJDgWx984ciaVXGFUOmi1c</p>
 </li></ul>
-</html>
