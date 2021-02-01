@@ -4,7 +4,7 @@
 <b >Nama   : </b> Farid Afgar<br/>
 <b>NIM    : </b> 1800018391<br/>
 <b>Kelas  : </b> H<br/>
-<b>AKun Github : </b><a href="https://github.com/farid-391">farid-391</a>
+<b>Akun Github : </b><a href="https://github.com/farid-391">farid-391</a>
 
 
 <h4>User Story Order GoFood</h4>
