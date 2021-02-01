@@ -13,10 +13,10 @@
 <p>Berikut ini tautan folder UTS (User Story & UAT, Workflow, Rincian Kebutuhan, & Wireframe) : <a href="https://drive.google.com/drive/folders/1-zi1L2EY7ORJDgWx984ciaVXGFUOmi1c?usp=sharing">Klik Disini</a></p>
 
 <h5>ShortCut folder/file aplikasi</h5>
-- 1. Layout (.xml)    - <a href="https://github.com/farid-391/RKSAplikasi391/tree/master/app/src/main/res/layout">Klik Disini</a>
-- 2. Activity (.java) - <a href="https://github.com/farid-391/RKSAplikasi391/tree/master/app/src/main/java/com/example/rksaplikasi391">Klik Disini</a>
-- 3. Manifest         - <a href="https://github.com/farid-391/RKSAplikasi391/blob/master/app/src/main/AndroidManifest.xml">Klik Disini</a>
-- 4. * Drawable     - <a href="https://github.com/farid-391/RKSAplikasi391/tree/master/app/src/main/res/drawable-v24">Klik Disini</a> 
+- Layout (.xml) <a href="https://github.com/farid-391/RKSAplikasi391/tree/master/app/src/main/res/layout">Klik Disini</a>
+- Activity (.java) <a href="https://github.com/farid-391/RKSAplikasi391/tree/master/app/src/main/java/com/example/rksaplikasi391">Klik Disini</a>
+- Manifest        <a href="https://github.com/farid-391/RKSAplikasi391/blob/master/app/src/main/AndroidManifest.xml">Klik Disini</a>
+- Drawable    <a href="https://github.com/farid-391/RKSAplikasi391/tree/master/app/src/main/res/drawable-v24">Klik Disini</a> 
      
 <h5>Preview Aplikasi</h5>
 <IMG SRC="20210201_122301[1].gif">
